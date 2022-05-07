@@ -1,5 +1,5 @@
 // Comments baby!!!
 
-const funMessage : string = 'What is up my dudes';
+const funMessage : string = 'aloha';
 
 console.log(funMessage);
