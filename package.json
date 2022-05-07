@@ -1,0 +1,23 @@
+{
+  "name": "config-compile-debug-ts-beth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethsilverstein/config-compile-debug-ts-beth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bethsilverstein/config-compile-debug-ts-beth/issues"
+  },
+  "homepage": "https://github.com/bethsilverstein/config-compile-debug-ts-beth#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
