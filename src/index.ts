@@ -1,3 +1,5 @@
-const message : string = 'What is up my dudes';
+// Comments baby!!!
 
-console.log(message);
+const funMessage : string = 'What is up my dudes';
+
+console.log(funMessage);
